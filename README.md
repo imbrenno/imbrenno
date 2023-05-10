@@ -9,8 +9,8 @@
 
 
  
-![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=iambrenno&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambrenno&layout=compact)](https://github.com/profile/github-readme-stats)
+![Brenno Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=imbrenno&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imbrenno&layout=compact)](https://github.com/profile/github-readme-stats)
 
 
 ### :globe_with_meridians: _Networking_

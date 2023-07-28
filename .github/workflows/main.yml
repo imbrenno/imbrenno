@@ -10,14 +10,6 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - name: Configurar Token de Acesso Pessoal
-        env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
-      - name: Clonar Repositório
-        run: |
-          git config --global http.extraheader "Authorization: Bearer $ACCESS_TOKEN"
-          git clone https://github.com/imbrenno/imbrenno.git
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif

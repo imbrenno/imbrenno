@@ -27,19 +27,15 @@
     <img align="center" height="30" width="40" alt="flask-icon" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
     <img align="center" height="30" width="40" alt="fastapi-icon" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
      
-   </div>
-    <h1 align="center">Redes Sociais</h1>
-    <a href="https://www.linkedin.com/in/brenno-maia/" target="_blank">
-        <img align="center" alt="brenno-maia" height="60" width="55"
-            src="https://cdn.icon-icons.com/icons2/100/PNG/256/linkedin_socialnetwork_17503.png">
+   <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: brennomaia10@gmail.com">
+      <img width="30" src="gmail.svg">
     </a>
-    <a href="https://www.instagram.com/brenno_____________/" target="_blank">
-        <img align="center" alt="brenno-maia" height="60" width="55"
-            src="https://cdn.icon-icons.com/icons2/100/PNG/256/instagram_socialnetwork_17505.png">
+    <a href = "https://www.linkedin.com/in/brenno-maia/">
+      <img width="25" src="linkedin.svg">
     </a>
-    <a href="brennomaia10@gmail.com">
-        <img align="center" alt="brenno-maia" height="60" width="55"
-            src="https://cdn.icon-icons.com/icons2/100/PNG/256/email_socialnetwork_17535.png">
+    <a href = "https://www.instagram.com/brenno_____________/">
+      <img width="25" src="instagram.png">
     </a>
 </div>
 

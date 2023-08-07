@@ -37,7 +37,7 @@
     <a href = "https://www.instagram.com/brenno_____________/">
       <img width="25" src="instagram.png">
     </a>
-    ![Snake animation](https://github.com/imbrenno/imbrenno/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 

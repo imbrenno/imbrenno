@@ -1,7 +1,7 @@
 # Sejam Bem-vindos👋
 
 
-## Me chamo Brenno, tenho 29 anos.:raising_hand_man:
+## Me chamo Brenno, tenho 29 anos. :raising_hand_man:
 ### Backend Developer :technologist: | Formação em Gestão de Tecnologia da informação. :man_student:
 
 ### _Bio_

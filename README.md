@@ -2,7 +2,7 @@
 
 
 ## Me chamo Brenno, tenho 29 anos. :raising_hand_man:
-### Sou Backend Developer :technologist: | Formado em Gestão de Tecnologia da informação. :man_student:
+### Sou Python Developer :technologist: | Formado em Gestão de Tecnologia da informação. :man_student:
 
 ### _Bio_
 - **São Paulo, SP** :brazil:

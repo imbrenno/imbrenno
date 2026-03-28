@@ -1,8 +1,8 @@
 # Sejam Bem-vindos👋
 
 
-## Me chamo Brenno, tenho 30 anos. :raising_hand_man:
-### Sou Desenvolvedor Backend Python e Java :technologist: | Formado em Gestão de Tecnologia da informação. :man_student:
+## Me chamo Brenno, tenho 32 anos. :raising_hand_man:
+### Sou Desenvolvedor Backend Python e Java/Kotlin :technologist:
 
 ### _Bio_
 - **São Paulo, SP** :brazil:

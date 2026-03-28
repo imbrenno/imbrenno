@@ -1,7 +1,7 @@
 # Sejam Bem-vindos👋
 
 
-## Me chamo Brenno, tenho 32 anos. :raising_hand_man:
+## Me chamo Brenno, tenho 31 anos. :raising_hand_man:
 ### Sou Desenvolvedor Backend Python e Java/Kotlin :technologist:
 
 ### _Bio_
